@@ -1,4 +1,4 @@
 # merge-solo
-The more you repeat a word to yourself the less it will sound like a word :D
+The more you repeat a word to yourself the less it will sound like a word 
 
 Are you suddenly breathing manually now? :)
